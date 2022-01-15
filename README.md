@@ -25,7 +25,13 @@
     •	όλα τα μέρη θα εκτυπωθούν από 3d εκτυπωτή <br>
 
 <b>Υλικά που θα χρειαστούμε </b>
-<u>mispeled</u>
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
+
+
 <u>Για διαλογέα</u>  <br> 
     •	NodeMCU - Lua based ESP8266 <br>
     •	Stepper Driver Breakout - ULN2003 <br>
