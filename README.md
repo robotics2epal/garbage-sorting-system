@@ -20,33 +20,33 @@
 3.	Επειδή η ενασχόληση με γυαλί ενέχει κινδύνους για τους μαθητές, θα χρησιμοποιήσουμε ιδιότητες που έχει το plexiglass και είναι παρόμοιες.
 
 Όλη η κατασκευή θα υποστηρίζεται ενεργειακά από έναν Solar tracker ο οποίος θα κινεί φωτοβολταϊκό το οποίο :  <br> 
-•	θα ακολουθεί τη πορεία του ήλιου <br>
-•	όταν νυχτώσει θα επιστρέφει στην ανατολή για να είναι έτοιμος της επόμενη ημέρα <br>
-•	όλα τα μέρη θα εκτυπωθούν από 3d εκτυπωτή <br>
+  •	θα ακολουθεί τη πορεία του ήλιου <br>
+  •	όταν νυχτώσει θα επιστρέφει στην ανατολή για να είναι έτοιμος της επόμενη ημέρα <br>
+  •	όλα τα μέρη θα εκτυπωθούν από 3d εκτυπωτή <br>
 
 <b>Υλικά που θα χρειαστούμε </b>
 
 <u>Για διαλογέα</u>  <br> 
-•	NodeMCU - Lua based ESP8266 <br>
-•	Stepper Driver Breakout - ULN2003 <br>
-•	Stepper Motor <br>
-•	Led Διάφανο 10mm Λευκό <br>
-•	LED Diffused 10mm Κόκκινο <br>
-•	LED Diffused 10mm Πράσινο <br>
-•	Φωτοαντίσταση LDR  <br>
-•	Led Holder 10mm Plastic <br>
+  •	NodeMCU - Lua based ESP8266 <br>
+  •	Stepper Driver Breakout - ULN2003 <br>
+  •	Stepper Motor <br>
+  •	Led Διάφανο 10mm Λευκό <br>
+  •	LED Diffused 10mm Κόκκινο <br>
+  •	LED Diffused 10mm Πράσινο <br>
+  •	Φωτοαντίσταση LDR  <br>
+  •	Led Holder 10mm Plastic <br>
 
 <u>Για τον Solar Tracker</u> <br>
-•	Φωτοβολταϊκή Κυψέλη <br>
-•	Μπαταρία με φορτιστή <br>
-•	ρουλεμάν <br>
-•	NodeMCU - Lua based ESP8266 <br>
-•	Servo Motor <br>
+  •	Φωτοβολταϊκή Κυψέλη <br>
+  •	Μπαταρία με φορτιστή <br>
+  •	ρουλεμάν <br>
+  •	NodeMCU - Lua based ESP8266 <br>
+  •	Servo Motor <br>
  
 Και για τα δύο <br>
-•	Ribbon 40wire 20cm - Female to Female <br>
-•	Ribbon 40wire 20cm - Female to Μale <br>
-•	Ribbon 40wire 20cm - Male to Male <br>
-•	Νήμα PLA 1.75mm <br>
-•	Πλακέτα Δοκιμών 400 Οπές <br>
-•	Πλακέτα Δοκιμών Mini <br>
+  •	Ribbon 40wire 20cm - Female to Female <br>
+  •	Ribbon 40wire 20cm - Female to Μale <br>
+  •	Ribbon 40wire 20cm - Male to Male <br>
+  •	Νήμα PLA 1.75mm <br>
+  •	Πλακέτα Δοκιμών 400 Οπές <br>
+  •	Πλακέτα Δοκιμών Mini <br>
