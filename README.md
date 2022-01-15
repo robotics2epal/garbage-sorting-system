@@ -32,7 +32,7 @@
 **Υλικά που θα χρειαστούμε 
 **
 
- Για διαλογέα 
+Για διαλογέα 
 •	NodeMCU - Lua based ESP8266
 •	Stepper Driver Breakout - ULN2003
 •	Stepper Motor
@@ -49,11 +49,10 @@
 •	NodeMCU - Lua based ESP8266
 •	Servo Motor
 
-Και για τα δύο
+<u>Και για τα δύο</u>
 •	Ribbon 40wire 20cm - Female to Female
 •	Ribbon 40wire 20cm - Female to Μale
 •	Ribbon 40wire 20cm - Male to Male
 •	Νήμα PLA 1.75mm
 •	Πλακέτα Δοκιμών 400 Οπές - Άσπρη
 •	Πλακέτα Δοκιμών Mini - Μπλέ
-
