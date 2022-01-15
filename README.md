@@ -28,31 +28,31 @@
 
 <p>Για διαλογέα
 <ul>
-  <li>NodeMCU - Lua based ESP8266 </li>
-  <li>Stepper Driver Breakout - ULN2003 </li>
-  <li>Stepper Motor </li>
-  <li>Led Διάφανο 10mm Λευκό </li>
-  <li>LED Diffused 10mm Κόκκινο </li>
-  <li>LED Diffused 10mm Πράσινο </li>
-  <li>Φωτοαντίσταση LDR  </li>
-  <li>Led Holder 10mm Plastic </li>
+  <li>NodeMCU - Lua based ESP8266 2 τεμ. </li>
+  <li>Stepper Driver Breakout - ULN2003 2 τεμ.</li>
+  <li>Stepper Motor 2 τεμ.</li>
+  <li>Led Διάφανο 10mm Λευκό 1 τεμ.</li>
+  <li>LED Diffused 10mm Κόκκινο 1 τεμ.</li>
+  <li>LED Diffused 10mm Πράσινο 1 τεμ.</li>
+  <li>Φωτοαντίσταση LDR  1 τεμ.</li>
+  <li>Led Holder 10mm Plastic 3 τεμ.</li>
 </ul>
     
 <p>Για τον Solar Tracker
 <ul>
-   <li>Φωτοβολταϊκή Κυψέλη </li>
-   <li>Μπαταρία με φορτιστή </li>
-   <li>ρουλεμάν </li>
-   <li>NodeMCU - Lua based ESP8266 </li>
-   <li>Servo Motor </li>
+   <li>Φωτοβολταϊκή Κυψέλη 1 τεμ.</li>
+   <li>Μπαταρία με φορτιστή 1 τεμ.</li>
+   <li>ρουλεμάν 2 τεμ.</li>
+   <li>NodeMCU - Lua based ESP8266 1 τεμ.</li>
+   <li>Servo Motor 1 τεμ.</li>
 </ul>
  
 <p>Και για τα δύο
 <ul>
-   <li>Ribbon 40wire 20cm - Female to Female </li>
-   <li>Ribbon 40wire 20cm - Female to Μale </li>
-   <li>Ribbon 40wire 20cm - Male to Male </li>
-   <li>Νήμα PLA 1.75mm </li>
-   <li>Πλακέτα Δοκιμών 400 Οπές </li>
-   <li>Πλακέτα Δοκιμών Mini </li>
+   <li>Ribbon 40wire 20cm - Female to Female 1 τεμ.</li>
+   <li>Ribbon 40wire 20cm - Female to Μale 1 τεμ.</li>
+   <li>Ribbon 40wire 20cm - Male to Male1 τεμ. </li>
+   <li>Νήμα PLA 1.75mm 2 kgr</li>
+   <li>Πλακέτα Δοκιμών 400 Οπές 1 τεμ.</li>
+   <li>Πλακέτα Δοκιμών Mini 3 τεμ.</li>
 </ul>
