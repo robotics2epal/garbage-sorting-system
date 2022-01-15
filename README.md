@@ -26,7 +26,7 @@
 
 <b>Υλικά που θα χρειαστούμε </b>
 
-<u>Για διαλογέα</u>  <br> 
+<p>Για διαλογέα
 <ul>
   <li>NodeMCU - Lua based ESP8266 </li>
   <li>Stepper Driver Breakout - ULN2003 </li>
@@ -38,17 +38,21 @@
   <li>Led Holder 10mm Plastic </li>
 </ul>
     
-<u>Για τον Solar Tracker</u> <br>
-    •	Φωτοβολταϊκή Κυψέλη <br>
-    •	Μπαταρία με φορτιστή <br>
-    •	ρουλεμάν <br>
-    •	NodeMCU - Lua based ESP8266 <br>
-    •	Servo Motor <br>
+<p>Για τον Solar Tracker
+<ul>
+   <li>Φωτοβολταϊκή Κυψέλη </li>
+   <li>Μπαταρία με φορτιστή </li>
+   <li>ρουλεμάν </li>
+   <li>NodeMCU - Lua based ESP8266 </li>
+   <li>Servo Motor </li>
+</ul>
  
-Και για τα δύο <br>
-    •	Ribbon 40wire 20cm - Female to Female <br>
-    •	Ribbon 40wire 20cm - Female to Μale <br>
-    •	Ribbon 40wire 20cm - Male to Male <br>
-    •	Νήμα PLA 1.75mm <br>
-    •	Πλακέτα Δοκιμών 400 Οπές <br>
-    •	Πλακέτα Δοκιμών Mini <br>
+<p>Και για τα δύο
+<ul>
+   <li>Ribbon 40wire 20cm - Female to Female </li>
+   <li>Ribbon 40wire 20cm - Female to Μale </li>
+   <li>Ribbon 40wire 20cm - Male to Male </li>
+   <li>Νήμα PLA 1.75mm </li>
+   <li>Πλακέτα Δοκιμών 400 Οπές </li>
+   <li>Πλακέτα Δοκιμών Mini </li>
+</ul>
