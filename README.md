@@ -33,7 +33,7 @@
 
 <b>Υλικά που θα χρειαστούμε </b>
 
-<p>Για διαλογέα
+<p>Για το διαλογέα
 <ul>
   <li>NodeMCU - Lua based ESP8266 2 τεμ. </li>
   <li>Stepper Driver Breakout - ULN2003 2 τεμ.</li>
