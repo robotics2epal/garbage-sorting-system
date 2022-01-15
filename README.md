@@ -25,24 +25,24 @@
 •	όταν νυχτώσει θα επιστρέφει στην ανατολή για να είναι έτοιμος της επόμενη ημέρα
 •	όλα τα μέρη θα εκτυπωθούν από 3d εκτυπωτή
 
-<n>Υλικά που θα χρειαστούμε </b>
+<b>Υλικά που θα χρειαστούμε </b>
 
-Για διαλογέα 
-•	NodeMCU - Lua based ESP8266
-•	Stepper Driver Breakout - ULN2003
-•	Stepper Motor
-•	Led Διάφανο 10mm Λευκό
-•	LED Diffused 10mm Κόκκινο
-•	LED Diffused 10mm Πράσινο
-•	Φωτοαντίσταση LDR 
-•	Led Holder 10mm Plastic
+<u>Για διαλογέα</u>  <br> 
+•	NodeMCU - Lua based ESP8266 <br>
+•	Stepper Driver Breakout - ULN2003 <br>
+•	Stepper Motor <br>
+•	Led Διάφανο 10mm Λευκό <br>
+•	LED Diffused 10mm Κόκκινο <br>
+•	LED Diffused 10mm Πράσινο <br>
+•	Φωτοαντίσταση LDR  <br>
+•	Led Holder 10mm Plastic <br>
 
-Για τον Solar Tracker
-•	Φωτοβολταϊκή Κυψέλη
-•	Μπαταρία με φορτιστή
-•	ρουλεμάν
-•	NodeMCU - Lua based ESP8266
-•	Servo Motor
+<u>Για τον Solar Tracker</u> <br>
+•	Φωτοβολταϊκή Κυψέλη <br>
+•	Μπαταρία με φορτιστή <br>
+•	ρουλεμάν <br>
+•	NodeMCU - Lua based ESP8266 <br>
+•	Servo Motor <br>
  
 Και για τα δύο <br>
 •	Ribbon 40wire 20cm - Female to Female <br>
