@@ -25,23 +25,19 @@
     •	όλα τα μέρη θα εκτυπωθούν από 3d εκτυπωτή <br>
 
 <b>Υλικά που θα χρειαστούμε </b>
-<ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ul>
-
 
 <u>Για διαλογέα</u>  <br> 
-    •	NodeMCU - Lua based ESP8266 <br>
-    •	Stepper Driver Breakout - ULN2003 <br>
-    •	Stepper Motor <br>
-    •	Led Διάφανο 10mm Λευκό <br>
-    •	LED Diffused 10mm Κόκκινο <br>
-    •	LED Diffused 10mm Πράσινο <br>
-    •	Φωτοαντίσταση LDR  <br>
-    •	Led Holder 10mm Plastic <br>
-
+<ul>
+  <li>NodeMCU - Lua based ESP8266 </li>
+  <li>Stepper Driver Breakout - ULN2003 </li>
+  <li>Stepper Motor </li>
+  <li>Led Διάφανο 10mm Λευκό </li>
+  <li>LED Diffused 10mm Κόκκινο </li>
+  <li>LED Diffused 10mm Πράσινο </li>
+  <li>Φωτοαντίσταση LDR  </li>
+  <li>Led Holder 10mm Plastic </li>
+</ul>
+    
 <u>Για τον Solar Tracker</u> <br>
     •	Φωτοβολταϊκή Κυψέλη <br>
     •	Μπαταρία με φορτιστή <br>
