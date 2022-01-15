@@ -46,7 +46,7 @@
 •	ρουλεμάν
 •	NodeMCU - Lua based ESP8266
 •	Servo Motor
-
+ 
 Και για τα δύο
 •	Ribbon 40wire 20cm - Female to Female
 •	Ribbon 40wire 20cm - Female to Μale
